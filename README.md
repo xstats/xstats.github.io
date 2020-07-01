@@ -1,2 +1,136 @@
 # xstats.github.io
-kris parekh madharchod h 
+<!DOCTYPE html>
+<html>
+<head>
+<title> WEBSITE </title>
+</head>
+<body>
+<h1> <u> <b> <strong> SITE INFORMATION </h1> </u> </b> </strong>
+
+<p> 
+<img src = "Saap.jpeg" style = " float : right ; width : 30% ; height:30%" />
+</p>
+
+<p> <h4> <u> XSTATIONARY </u>  is online stationary website. Its a website where students can find basic to advance level stationary. </p>
+ <br />
+<br />
+<br />
+<hr />
+
+<h1> <u> <b> <strong> XSTATS </h1> </u> </b> </strong>
+ <p> <h3> It is online - commercial website . which can provide affordable stationary products to students off for professional courses. </h3> </p>
+
+
+<br />
+<hr />
+ <h1> <u> MATERIALS </u> </h1>
+<code> HERE IS LIST OF ITEMS :- </code>
+
+<br />
+<br />
+<br />
+
+
+<style type = "text/css" >
+table ,th ,td { 
+border- collapse : collapse ; 
+border: 1px solid black;
+>
+</style>
+<table>
+<thead>
+<tr>
+<th> ITEMS </th>
+<th> PRICE </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> pencil </th>
+<td> 10 rs </th>
+</tr>
+
+
+ <tr>
+<td> rubber </th>
+<td> 5 rs </th>
+</tr>
+
+<tr>
+<td> pencil </th>
+<td> 10 rs </th>
+</tr>
+
+<tr>
+<td>  scale </th>
+<td> 10 rs </th>
+</tr>
+
+
+<tr>
+<td> brushes </th>
+<td> 20 rs </th>
+</tr>
+
+
+<tr>
+<td> roller </th>
+<td> 130 rs </th>
+</tr>
+
+
+<tr>
+<td> T scale </th>
+<td> 2000 rs </th>
+</tr>
+
+<tr>
+<td> chart paper </th>
+<td> 5 rs </th>
+</tr>
+<tr>
+<td> glue gun </th>
+<td> 150 rs </th>
+</tr>
+ </tbody>
+</table>
+
+
+<ul> 
+<li> PENCILS </li>
+<li> SCALE </li>
+<li> EARSER </li>
+<li> ROLLER </li>
+<li> CHART PAPER </li>
+<li> T SCALE </li>
+<li> GLUE GUN </li>
+<li> STICKS </li>
+<li> POUCH </li>
+<li> SHARPNER </li>
+</ul>
+
+<br />
+<br />
+
+<p> <h1> <u> DELIVERY </h1> </u> </p>
+ <h3>  Here is no contact delivery. COD (cash on delivery) is available . easily delivered in 1 to 2 days. 24/7 delivery available in some locations.
+ 
+</h3>
+<br />
+<br />
+
+<a href ="
+https://www.instagram.com/ " > | INSTAGRAM | </a>
+<span>   & </span>
+<a href ="
+https://m.facebook.com/" > | FACEBOOK | </a>
+<span>   & </span>
+<a href =" https://www.wikipedia.org/"
+ > | WIKIPEDIA | </a>
+<br />
+<br /> 
+<div>
+
+<p style = "text - align : right " > <h2> <i> THANKYOU </h2> </i> </p>
+
+<hr />
